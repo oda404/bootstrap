@@ -1,0 +1,34 @@
+{
+    "workbench.colorTheme": "GitHub Dark Default",
+    "editor.fontSize": 14,
+    "editor.fontFamily": "Cascadia Code",
+    "terminal.integrated.fontFamily": "Hack",
+    "editor.formatOnSave": true,
+    "workbench.startupEditor": "none",
+    "editor.bracketPairColorization.enabled": true,
+    "editor.renderWhitespace": "none",
+    "workbench.iconTheme": "bearded-icons",
+    "editor.minimap.enabled": false,
+    "C_Cpp.clang_format_path": "/home/oda/Documents/cpp/dxgmx-toolchain/usr/bin/clang-format",
+    "terminal.integrated.inheritEnv": false,
+    "makefile.buildBeforeLaunch": false,
+    "makefile.clearOutputBeforeBuild": false,
+    "makefile.configureAfterCommand": false,
+    "makefile.configureOnEdit": false,
+    "makefile.configureOnOpen": false,
+    "files.associations": {
+        "*.css": "tailwindcss",
+        "*.json": "jsonc"
+    },
+    "editor.quickSuggestions": {
+        "strings": "on"
+    },
+    "svelte.enable-ts-plugin": true,
+    "[json]": {
+        "editor.quickSuggestions": {
+            "strings": true
+        },
+        "editor.suggest.insertMode": "replace"
+    },
+    "window.zoomLevel": 1
+}

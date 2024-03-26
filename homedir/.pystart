@@ -1,0 +1,7 @@
+from math import *
+
+def percdiff(x, y):
+    top = -(x - y);
+    bot = x / 100;
+    return top / bot;
+
